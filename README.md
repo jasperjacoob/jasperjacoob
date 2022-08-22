@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in developing websites but lately i start to develop android applications like chatbots.
 - 🌱 I’m currently in deep learning everything about programming, and I'm taking my JavaScript data structure and algorithm at FreeCodeCamp :)
-- 💻 I like to watch vlogs about software engineer daily life or Some tips and tricks coding on youtube.
+- 💻 I'm into vlogs about software engineer daily life or Some tips and tricks coding on youtube.
 - 📫 How to reach me ... you can contact me on my email: jasperrjan@gmail.com
 
 <h2> About Me </h2>
